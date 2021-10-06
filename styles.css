@@ -1,0 +1,31 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card {
+  background: rgb(35, 212, 44);
+  width: 350px;
+  height: 450px;
+  color: white;
+  padding: 20px;
+  margin: 20px auto;
+  text-align: center;
+  box-shadow: 0 0 6px black;
+}
+
+.yo {
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+  color: white;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.titulo {
+  padding-bottom: inherit;
+}
+
+.parrafo {
+  font-style: italic;
+}
