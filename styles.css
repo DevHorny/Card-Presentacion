@@ -13,6 +13,7 @@ body {
   margin: 20px auto;
   text-align: center;
   box-shadow: 0 0 6px black;
+  border: 5px 5px 5px green;
 }
 .yo {
   display: block;
