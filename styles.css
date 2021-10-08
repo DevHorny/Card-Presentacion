@@ -1,5 +1,8 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url(repeated-square-dark.png);
+  background-repeat: repeat;
+  background-size: contain;
 }
 .card {
   background: rgb(35, 212, 44);
@@ -11,7 +14,6 @@ body {
   text-align: center;
   box-shadow: 0 0 6px black;
 }
-
 .yo {
   display: block;
   width: 200px;
@@ -21,11 +23,9 @@ body {
   object-fit: cover;
   border-radius: 50%;
 }
-
 .titulo {
   padding-bottom: inherit;
 }
-
 .parrafo {
   font-style: italic;
 }
